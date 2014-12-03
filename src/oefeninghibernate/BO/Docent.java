@@ -10,5 +10,8 @@ package oefeninghibernate.BO;
  * @author Philippe Zanzer
  */
 public class Docent {
-    
+    private String naam;
+    private String voornaam;
+    private String nummer;
+    private String email;
 }
